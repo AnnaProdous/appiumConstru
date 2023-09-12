@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Default Suite">
+    <parameter name="platformName" value="Android"/>
+    <parameter name="platformVersion" value="12"/>
+    <parameter name="deviceName" value="emulator-5554"/>
+    <test thread-count="5" name="Constru">
+
+        <classes>
+           <class name="com.tests.SettingsTests">
+          <methods>
+                    <include name="validateNamesSettings"/>
+                </methods>
+            </class>
+
+            <!--<class name="com.tests.SettingsTests">
+            </class>&ndash;&gt;
+            <class name="com.tests.ProjectTests">
+                <methods>
+                    <include name="validateBackBtn"/>
+                </methods>
+            </class>
+
+              <class name="com.tests.SettingsTests">
+                <methods>
+                       <include name="validateVisibilityOfLegendMenu"/>
+                   </methods>
+            </class>-->
+
+        </classes>
+    </test> <!-- Constru -->
+</suite> <!-- Default Suite -->

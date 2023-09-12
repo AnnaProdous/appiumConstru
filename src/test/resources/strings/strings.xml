@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <!-- Login Page -->
+    <string name="appName">Constru Data Scout App</string>
+    <string name="UserFld">Username</string>
+    <string name="PassFld">Password</string>
+    <string name="LoginBtn">LOGIN</string>
+    <string name="errorMsg">Username or password is incorrect</string>
+
+    <!-- Projects Page -->
+    <string name="nameOfProject">Test Apple</string>
+
+    <!-- Project Details Page -->
+    <string name="descApart">Floor F01, Building B1, Test Apple</string>
+    <string name="pointName">3 - technical_room</string>
+    <string name="nameStatusR">Ready</string>
+    <string name="nameStatusE">Error</string>
+    <string name="nameStatusU">Uploading</string>
+    <string name="nameStatusD">Done</string>
+
+    <!-- Settings -->
+    <string name="settings">App Settings</string>
+    <string name="settingsNameH">הגדרות אפליקציה</string>
+    <string name="settingsNameK">앱 설정</string>
+    <string name="settingsNameJ">アプリの設定</string>
+    <string name="settingsNameRu">Настройки приложения</string>
+    <string name="settingsNameEn">App Settings</string>
+    <string name="msgUploadScr">The queue is empty!</string>
+    <string name="userN">test_ios</string>
+    <string name="userFld">Now logged in as:</string>
+    <string name="ver">1.5.24</string>
+    <string name="verFld">Version:</string>
+
+    <string name="cameraStatus">Not connected</string>
+    <string name="appSet">App Settings</string>
+    <string name="selectLang">Select language</string>
+    <string name="confImg">Confirm Image ‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‏‎‏‏‏‎‏‎‏‎‎‎‎‎‏‎‎‎‏‏‏‎‏‏‎‎‏‏‎‏‏‎‏‎‎‎‎‎‏‏‎‏‎‏‏‎‏‏‏‎‎‏‎‎‏‏‎‎‏‏‏‎‏‏‎OFF‎‏‎‎‏‎</string>
+    <string name="useMobData">Use mobile data to upload images ‎‏‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‎‏‎‎‎‎‏‏‏‏‏‎‎‏‏‎‎‎‏‎‎‏‎‎‎‎‎‎‏‎‏‏‏‎‎‎‎‎‎‏‎‏‎‎‎‎‎‎‎‏‎‎‎‎‏‎‎‎‏‏‏‏‏‎‎‏‏‎‏‏‎‎‎‎ON‎‏‎‎‏‎</string>
+    <string name="invProjD">Invalidate project data</string>
+    <string name="uplData">Upload data in queue.</string>
+    <string name="uplSch">Upload schedule:</string>
+    <string name="camSet">Camera Settings</string>
+    <string name="picRem">Pictures remaining</string>
+    <string name="tetWiz">Theta Wizard</string>
+    <string name="debugBtn">Debug menu</string>
+
+
+    <string name="mainMsgLeg">Select the location manually</string>
+    <string name="msgLeg">Legend:</string>
+    <string name="msgLegY">In progress by you</string>
+    <string name="msgLegG">Done</string>
+    <string name="msgLegR">Can't take</string>
+    <string name="msgLegSmn">Taken by someone else</string>
+    <string name="msgLegSelYou">Selected by you</string>
+    <string name="msgLegErr">Plan download error</string>
+
+
+
+</resources>

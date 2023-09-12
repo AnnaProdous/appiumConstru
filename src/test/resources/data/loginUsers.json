@@ -1,0 +1,14 @@
+{
+  "invalidUser": {
+    "username": "invalid_user",
+    "password": "Constru_2020%"
+  },
+  "invalidPassword": {
+    "username": "test_ios",
+    "password": "123_invalid_password"
+  },
+  "successfulLogin": {
+    "username": "test_ios",
+    "password": "Constru_2020%"
+  }
+}
